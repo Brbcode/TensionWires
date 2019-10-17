@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "tensionwires:block/example_block"
+        }
+    }
+}
